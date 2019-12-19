@@ -1,7 +1,7 @@
-# Code Institute
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/mickh14/dataCentricMiniProject) 
 
-Welcome USER_NAME,
+# Task Manager
 
-We have preinstalled all of the tools you need to get started.
+Welcome to the Task manager.
 
-Happy coding!
+Using MongoDB, Python and Flask
